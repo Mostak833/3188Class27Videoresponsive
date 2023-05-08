@@ -1,0 +1,55 @@
+
+
+@media (max-width:1400px) {
+    .contenter{
+        max-width: 100%;
+      }
+}
+@media (max-width:847px) {
+    .logo {
+        width:100%;
+        text-align: center;
+    }
+    .logo img {
+        margin-left: 142px;
+    }
+    .header-menu {
+        width: 100%;
+        text-align: center;
+    }
+    .header-button {
+        width: 100%;
+        text-align: center;
+    }
+    .video-left {
+        width: 100%;
+    }
+    .video-content-right {
+        width: 100%;
+    }
+    .service-box {
+        width: 100%;
+    }
+    .table-item {
+        width: 100%;
+        
+    }
+    .blog-post-item {
+        width: 100%;
+        
+    }
+    .i-item {
+        width: 100%;
+
+    }
+ 
+}
+   
+@media (max-width:577px) {
+    .member {
+        width: 100%;
+        
+    }
+  
+    
+}
